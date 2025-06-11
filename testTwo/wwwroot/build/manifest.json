@@ -1,0 +1,11 @@
+{
+  "src/App.tsx": {
+    "file": "assets/App-CZu4i4cp.js",
+    "name": "App",
+    "src": "src/App.tsx",
+    "isEntry": true,
+    "css": [
+      "assets/App-BLZ-dim9.css"
+    ]
+  }
+}

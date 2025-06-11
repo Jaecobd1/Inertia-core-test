@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/jakedobler/dev/inertiacoreTest/testTwo/wwwroot/build/assets/App-BLZ-dim9.css",
+      "PackagePath": "staticwebassets/build/assets/App-BLZ-dim9.css"
+    },
+    {
+      "Id": "/Users/jakedobler/dev/inertiacoreTest/testTwo/wwwroot/build/assets/App-CZu4i4cp.js",
+      "PackagePath": "staticwebassets/build/assets/App-CZu4i4cp.js"
+    },
+    {
+      "Id": "/Users/jakedobler/dev/inertiacoreTest/testTwo/wwwroot/build/manifest.json",
+      "PackagePath": "staticwebassets/build/manifest.json"
+    },
+    {
+      "Id": "/Users/jakedobler/dev/inertiacoreTest/testTwo/wwwroot/favicon.svg",
+      "PackagePath": "staticwebassets/favicon.svg"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.testTwo.props",
+      "PackagePath": "build\\testTwo.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.testTwo.props",
+      "PackagePath": "buildMultiTargeting\\testTwo.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.testTwo.props",
+      "PackagePath": "buildTransitive\\testTwo.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.testTwo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,8 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "/Users/jakedobler/dev/inertiacoreTest/testTwo/ClientApp/",
+"MaxTimeoutInSeconds": "120"
+}
+}

@@ -1,0 +1,76 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/jakedobler/dev/inertiacoreTest/testThree/testThree.csproj": {}
+  },
+  "projects": {
+    "/Users/jakedobler/dev/inertiacoreTest/testThree/testThree.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/jakedobler/dev/inertiacoreTest/testThree/testThree.csproj",
+        "projectName": "testThree",
+        "projectPath": "/Users/jakedobler/dev/inertiacoreTest/testThree/testThree.csproj",
+        "packagesPath": "/Users/jakedobler/.nuget/packages/",
+        "outputPath": "/Users/jakedobler/dev/inertiacoreTest/testThree/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/jakedobler/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net9.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net9.0": {
+            "targetAlias": "net9.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        },
+        "SdkAnalysisLevel": "9.0.300"
+      },
+      "frameworks": {
+        "net9.0": {
+          "targetAlias": "net9.0",
+          "dependencies": {
+            "InertiaCore": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/9.0.301/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

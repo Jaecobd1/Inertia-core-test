@@ -1,0 +1,11 @@
+{
+  "src/App.tsx": {
+    "file": "assets/App-uNDAi_6U.js",
+    "name": "App",
+    "src": "src/App.tsx",
+    "isEntry": true,
+    "css": [
+      "assets/App-BLZ-dim9.css"
+    ]
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "/Users/jakedobler/dev/inertiacoreTest/test/wwwroot/build/assets/App-BLZ-dim9.css",
+      "PackagePath": "staticwebassets/build/assets/App-BLZ-dim9.css"
+    },
+    {
+      "Id": "/Users/jakedobler/dev/inertiacoreTest/test/wwwroot/build/assets/App-uNDAi_6U.js",
+      "PackagePath": "staticwebassets/build/assets/App-uNDAi_6U.js"
+    },
+    {
+      "Id": "/Users/jakedobler/dev/inertiacoreTest/test/wwwroot/build/manifest.json",
+      "PackagePath": "staticwebassets/build/manifest.json"
+    },
+    {
+      "Id": "/Users/jakedobler/dev/inertiacoreTest/test/wwwroot/favicon.svg",
+      "PackagePath": "staticwebassets/favicon.svg"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.build.test.props",
+      "PackagePath": "build\\test.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildMultiTargeting.test.props",
+      "PackagePath": "buildMultiTargeting\\test.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.buildTransitive.test.props",
+      "PackagePath": "buildTransitive\\test.props"
+    },
+    {
+      "Id": "obj/Debug/net8.0/staticwebassets/msbuild.test.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
